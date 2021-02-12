@@ -1,5 +1,5 @@
 user: testuser
 password: password123
-api_key: apikey123
+apikey: apikey123
 secret: secret123
 aws_secret='ABCDEF+c2L7yXeGvUyrPgYsDnWRRC1AYEXAMPLE'
